@@ -1,0 +1,17 @@
+/* app.module.css */
+
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+}
+
+/* optional container glow */
+.container {
+  padding: 20px;
+  border-radius: 12px;
+  background: #1a1a1a;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
+}
